@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.92f3a0a8.chunk.css",
-    "main.js": "/static/js/main.dbcc2c61.chunk.js",
-    "main.js.map": "/static/js/main.dbcc2c61.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e111ef77.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e111ef77.js.map",
-    "static/css/2.e4346227.chunk.css": "/static/css/2.e4346227.chunk.css",
-    "static/js/2.36e3d7cc.chunk.js": "/static/js/2.36e3d7cc.chunk.js",
-    "static/js/2.36e3d7cc.chunk.js.map": "/static/js/2.36e3d7cc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3f8ee5327f2c103558c50695835cbe88.js": "/precache-manifest.3f8ee5327f2c103558c50695835cbe88.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e4346227.chunk.css.map": "/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.92f3a0a8.chunk.css.map": "/static/css/main.92f3a0a8.chunk.css.map",
-    "static/js/2.36e3d7cc.chunk.js.LICENSE.txt": "/static/js/2.36e3d7cc.chunk.js.LICENSE.txt",
-    "static/media/Hadaiq_Ahmad---2.png": "/static/media/Hadaiq_Ahmad---2.9cfb95ec.png",
-    "static/media/about-me.jpg": "/static/media/about-me.343226c5.jpg",
-    "static/media/App.css": "/static/media/bg-image-about.f2180a83.jpg"
+    "main.css": "/react/static/css/main.0a227154.chunk.css",
+    "main.js": "/react/static/js/main.4730495e.chunk.js",
+    "main.js.map": "/react/static/js/main.4730495e.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.13b4343b.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.13b4343b.js.map",
+    "static/css/2.e4346227.chunk.css": "/react/static/css/2.e4346227.chunk.css",
+    "static/js/2.36e3d7cc.chunk.js": "/react/static/js/2.36e3d7cc.chunk.js",
+    "static/js/2.36e3d7cc.chunk.js.map": "/react/static/js/2.36e3d7cc.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.7ee1808f1b884bceee8b323e4c6563b7.js": "/react/precache-manifest.7ee1808f1b884bceee8b323e4c6563b7.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/react/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.0a227154.chunk.css.map": "/react/static/css/main.0a227154.chunk.css.map",
+    "static/js/2.36e3d7cc.chunk.js.LICENSE.txt": "/react/static/js/2.36e3d7cc.chunk.js.LICENSE.txt",
+    "static/media/Hadaiq_Ahmad---2.png": "/react/static/media/Hadaiq_Ahmad---2.9cfb95ec.png",
+    "static/media/about-me.jpg": "/react/static/media/about-me.343226c5.jpg",
+    "static/media/App.css": "/react/static/media/bg-image-about.f2180a83.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e111ef77.js",
+    "static/js/runtime-main.13b4343b.js",
     "static/css/2.e4346227.chunk.css",
     "static/js/2.36e3d7cc.chunk.js",
-    "static/css/main.92f3a0a8.chunk.css",
-    "static/js/main.dbcc2c61.chunk.js"
+    "static/css/main.0a227154.chunk.css",
+    "static/js/main.4730495e.chunk.js"
   ]
 }
